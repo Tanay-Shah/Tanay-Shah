@@ -3,8 +3,9 @@
 ###
 
 <p align="left"></p>
-<br></br>
 ###
+
+</br>
 
 <h3 align="left">Tech Stack:</h3>
 
