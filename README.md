@@ -3,12 +3,14 @@
 ###
 
 <p align="left"></p>
-###
+<br><br>
 
-</br>
+
 
 <h3 align="left">Tech Stack:</h3>
 
+
+<br>
 
 
 <div align="center">
@@ -39,11 +41,11 @@
 
 <p align="left"></p>
 
-###
+<br>
+<br>
 
-<p align="left"></p>
-
-###
+<h3 align="left">GitHub Stats:</h3>
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Tanay-Shah&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
@@ -54,17 +56,20 @@
 
 <p align="left"></p>
 
-###
+<br>
+<br>
 
-<p align="left"></p>
+<h3 align="left">Contact:</h3>
 
-###
+<br>
 
 <div align="center">
   <a href="tanay.shah2558@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/tanay001/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
