@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"></p>
+<h3 align="left">Tech Stack</h3>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left"></p>
+<h3 align="left"></h3>
 
 ###
 
